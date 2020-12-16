@@ -5,12 +5,11 @@ Welcome here
 
 whatsup
 
-<<<<<<< HEAD
 
 
 
 
 whats happening
-=======
+
 new changes made
->>>>>>> 9997d7f11a2574092156c7bfd80f3b8436691be6
+
